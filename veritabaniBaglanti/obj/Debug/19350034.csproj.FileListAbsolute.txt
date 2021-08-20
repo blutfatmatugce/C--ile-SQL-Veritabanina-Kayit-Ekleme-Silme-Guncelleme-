@@ -1,0 +1,20 @@
+C:\Users\blutf\source\repos\19350034\19350034\bin\Debug\19350034.exe.config
+C:\Users\blutf\source\repos\19350034\19350034\bin\Debug\19350034.exe
+C:\Users\blutf\source\repos\19350034\19350034\bin\Debug\19350034.pdb
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\19350034.csprojAssemblyReference.cache
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\_19350034.Properties.Resources.resources
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\19350034.csproj.GenerateResource.cache
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\19350034.csproj.CoreCompileInputs.cache
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\19350034.exe
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\19350034.pdb
+C:\Users\blutf\source\repos\19350034\19350034\obj\Debug\_19350034.Form2.resources
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\bin\Debug\19350034.exe.config
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\bin\Debug\19350034.exe
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\bin\Debug\19350034.pdb
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\19350034.csprojAssemblyReference.cache
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\_19350034.Form2.resources
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\_19350034.Properties.Resources.resources
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\19350034.csproj.GenerateResource.cache
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\19350034.csproj.CoreCompileInputs.cache
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\19350034.exe
+C:\Users\blutf\Desktop\Fatma Bulut-19350034\19350034\obj\Debug\19350034.pdb
